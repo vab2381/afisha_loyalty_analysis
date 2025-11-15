@@ -1,0 +1,23 @@
+# Виртуальное окружение
+venv/
+env/
+
+# macOS служебные файлы
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter временные файлы
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Логи
+*.log
+
+# Кэш python
+__pycache__/
+*.pyc
+
+# Конфиденциальные файлы
+.env
+*.env
